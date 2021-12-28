@@ -1,5 +1,11 @@
 # Getting Started with Create React App
 
+Ejercicio 3
+Para estos ejercicios deberás realizar los mismos que en la fase 1 pero utilizando ReactJS.
+
+
+Ejercicio 3. Maqueta la tabla de alumnos y añade datos de ejemplo.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
